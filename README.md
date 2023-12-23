@@ -15,7 +15,7 @@ The detailed analysis for the project can be found in the Jupyter Notebook file 
 
 For a summarized overview and key findings, please refer to the PowerPoint presentation file named `round1_presentation.pptx`. This presentation encapsulates essential insights derived from the analysis.
 
-## Video Presentation (Upcoming)
+## Video Presentation
 
 Due to technical difficulties, the video presentation is currently being recorded and will be uploaded at the earliest convenience. Apologies for any inconvenience caused.
 
