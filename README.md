@@ -19,6 +19,8 @@ For a summarized overview and key findings, please refer to the PowerPoint prese
 
 Due to technical difficulties, the video presentation is currently being recorded and will be uploaded at the earliest convenience. Apologies for any inconvenience caused.
 
+Please Note: Added the video presentation!
+Also can find the video here: https://drive.google.com/file/d/1zJH7Dh0p9yqWP5I1abmMgmemRkfAhClr/view?usp=sharing
 ---
 
 Feel free to reach out if there are any questions or additional information needed.
